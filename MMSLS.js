@@ -18,12 +18,13 @@ const MMSLS = [
 =====================请在下面编辑=====================
 =====================请在下面编辑=====================
  */
-const MMSLS = [
-    
-    "https://www.maimemo.com/share/page?uid=32454734&pid=37bb443069e38300d9c93d789cb55b31&tid=7af4b3567f88681e7b776a0fd0703453",
 
+// https://www.52pojie.cn/forum.php?mod=viewthread&tid=1865413&highlight=%C4%AB%C4%AB%B1%B3%B5%A5%B4%CA
 
-  ]
+let MMSLS = [
+	"https://www.maimemo.com/share/page?uid=29726779&pid=6d73cee2eb013e9182d0ad925fff7e2c&tid=373b360a103ace81cd008923650624f5",
+	"https://www.maimemo.com/share/page?uid=32329480&pid=6d73cee2eb013e9182d0ad925fff7e2c&tid=5ac54fa98e0f73de5ce96036cdcb2ddc",
+];
   /**
    * 生成随机数字
    * @param {number} min 最小值（包含）
