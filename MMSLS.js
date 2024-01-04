@@ -21,9 +21,16 @@ const MMSLS = [
 
 // https://www.52pojie.cn/forum.php?mod=viewthread&tid=1865413&highlight=%C4%AB%C4%AB%B1%B3%B5%A5%B4%CA
 
+/*
+ 使用方法：
+ 1. 打开 https://github.com/Space-FuCheng/momoshare/ 。右边有watch，fork，star按钮。点击fork，新页面点create fork
+ 2. 点settings，再点action，最上面 Actions permissions 这项点击第一个然后按下面的save应该就行，不行再调下别的
+ 3. 点code，点MMSLS.js，把你的分享链接放进去，你要是只有一个号，你每天换那一个就行。
+ 4. 点action，点I understand的啥的，绿色的框。左面的click分享link，点右边的 enable workflow，然后点run workflow就会运行了，差不多20多分钟左右一次。每天都需要换链接。
+ */
+	
 let MMSLS = [
-	"https://www.maimemo.com/share/page?uid=29726779&pid=6d73cee2eb013e9182d0ad925fff7e2c&tid=373b360a103ace81cd008923650624f5",
-	"https://www.maimemo.com/share/page?uid=32329480&pid=6d73cee2eb013e9182d0ad925fff7e2c&tid=5ac54fa98e0f73de5ce96036cdcb2ddc",
+	"https://www.maimemo.com/share/page?uid=29726779&pid=2e303d2ef71cdd434b393f5a680a857b&tid=a5b67477809d8cb6d488b9ac7733f7f9",
 ];
   /**
    * 生成随机数字
