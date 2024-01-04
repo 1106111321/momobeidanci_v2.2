@@ -28,9 +28,10 @@ const MMSLS = [
  3. 点code，点MMSLS.js，把你的分享链接放进去，你要是只有一个号，你每天换那一个就行。
  4. 点action，点I understand的啥的，绿色的框。左面的click分享link，点右边的 enable workflow，然后点run workflow就会运行了，差不多20多分钟左右一次。每天都需要换链接。
  */
-	
+
 let MMSLS = [
 	"https://www.maimemo.com/share/page?uid=29726779&pid=2e303d2ef71cdd434b393f5a680a857b&tid=a5b67477809d8cb6d488b9ac7733f7f9",
+	"https://www.maimemo.com/share/page?uid=32329480&pid=2e303d2ef71cdd434b393f5a680a857b&tid=9ace389a86d049ff9b1be3805c3ffc23",
 ];
   /**
    * 生成随机数字
