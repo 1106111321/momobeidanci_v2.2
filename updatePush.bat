@@ -1,5 +1,8 @@
 
 @echo off
+
+rem https://www.python100.com/html/111789.html
+
 set /a i=0
 :LoopStart
   echo loop %i%
