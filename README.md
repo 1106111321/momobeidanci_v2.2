@@ -39,3 +39,10 @@
 |  `TG_PROXY_PORT`  |                     Telegram 代理的端口                      | 非必须 | 例子：http代理 http://127.0.0.1:1080 则填写 1080             |
 
 
+使用方法：https://www.52pojie.cn/forum.php?mod=viewthread&tid=1865413&highlight=%C4%AB%C4%AB%B1%B3%B5%A5%B4%CA
+1. 打开 https://github.com/Space-FuCheng/momoshare/ 。右边有watch，fork，star按钮。点击fork，新页面点create fork
+2. 点settings，再点action，最上面Actions permissions这项点击第一个然后按下面的save应该就行，不行再调下别的
+3. 点code，点MMSLS.js，把你的分享链接放进去，你要是只有一个号，你每天换那一个就行。
+4. 点action，点I understand的啥的，绿色的框。左面的click分享link，点右边的enable workflow，然后点run workflow就会运行了，差不多20多分钟左右一次。每天都需要换链接。
+
+
