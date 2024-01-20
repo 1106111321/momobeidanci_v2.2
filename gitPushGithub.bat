@@ -8,8 +8,7 @@ set /a i=0
   echo loop %i%
   set /a i+=1
 
-  rem git add *
-  rem git commit -m "%date% %time%: Updated By test"
+  git commit -m "修改链接"
   git push origin "master"
   rem exit
 
