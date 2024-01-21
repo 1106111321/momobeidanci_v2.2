@@ -10,6 +10,7 @@ set /a i=0
 
   rem git add *
   rem git commit -m "%date% %time%: Updated By test"
+  git remote -v
   git push origin "master"
   rem exit
 
