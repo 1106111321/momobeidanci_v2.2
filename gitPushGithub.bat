@@ -8,8 +8,9 @@ set /a i=0
   echo loop %i%
   set /a i+=1
 
-  rem git add *
+  git add .
   rem git commit -m "%date% %time%: Updated By test"
+  git commit -m "daily push data-structure-and-algorithms"
   git remote -v
   git push origin "master"
   rem exit
