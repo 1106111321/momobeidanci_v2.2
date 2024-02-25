@@ -9,8 +9,8 @@ set /a i=0
   set /a i+=1
 
   git add .
-  rem git commit -m "%date% %time%: Updated By test"
-  git commit -m "daily push data-structure-and-algorithms"
+  git commit -m "%date% %time%: Updated By test"
+  rem git commit -m "daily push data-structure-and-algorithms"
   git remote -v
   git push origin "master"
   rem exit
